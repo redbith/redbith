@@ -1,6 +1,11 @@
-# 💫 About Me:
-👋 Hi, I'm …<br><br>I'm a tech enthusiast from Azerbaijan, focused on learning DevOps, System Administration, and Cybersecurity.<br>🔧 Technical Interests<br>🐧 Linux & System Administration<br><br>RHCSA-level Linux knowledge (user & permission management, services, SELinux basics, LVM, networking, troubleshooting)<br><br>Shell scripting<br><br>Server maintenance & log analysis<br><br>🐳 DevOps & Automation<br><br>Containerization with Docker (image building, Dockerfiles, container management)<br><br>🛡️ Cybersecurity<br><br>Fundamental network security concepts<br><br>Hands-on practice with common security tools (Nmap, Wireshark, etc.)<br><br>📚 What I'm Currently Learning<br><br>Improving my DevOps workflow and Docker skills<br><br>Linux automation and system optimization<br><br>Exploring cybersecurity tools and defensive/offensive basics<br>
-
+## 💫 About Me
+Hi, I'm … from **Azerbaijan**.  
+I'm passionate about **DevOps, System Administration, and Cybersecurity**.
+- 🐧 RHCSA-level Linux skills  
+- 🐚 Shell scripting & server maintenance  
+- 🐳 Docker & basic automation  
+- 🛡️ Network security (Nmap, Wireshark)  
+- 📚 Currently learning DevOps workflow, Linux automation, and security fundamentals
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/redbith) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/92FRVu4d) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/redbith_root) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@I dont use tiktok btw!) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/redbith_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:scriptpy777@gmail.com) 
 
