@@ -1,6 +1,6 @@
 ## 💫 About Me
 Hi, I'm redbith from **Azerbaijan**.  
-I'm passionate about **DevOps, System Administration, and Cybersecurity**.
+I'm passionate about **DevSecOps, System Administration, and Cybersecurity**.
 
 - 🐧 RHCSA-level Linux skills, Shell scripting & server maintenance   
 - 🛡️ Network and app security  
