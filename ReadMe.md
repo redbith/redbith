@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/redbith/redbith/683ac35729d3c26269afd4ea8676fe5d21e72486/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/redbith/redbith/refs/heads/main/main/light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="66629ee740d575d6297833308c2c9d7/main/light.svg">
   <img alt="Namiq Baghirzada Hero Banner" src="https://raw.githubusercontent.com/redbith/redbith/683ac35729d3c26269afd4ea8676fe5d21e72486/main/dark.svg" width="100%">
 </picture>
 
