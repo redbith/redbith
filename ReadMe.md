@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/redbith/redbith/refs/heads/main/main/dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/redbith/redbith/683ac35729d3c26269afd4ea8676fe5d21e72486/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/redbith/redbith/refs/heads/main/main/light.svg">
-  <img alt="Namiq Baghirzada Hero Banner" src="https://raw.githubusercontent.com/redbith/redbith/refs/heads/main/main/dark.svg" width="100%">
+  <img alt="Namiq Baghirzada Hero Banner" src="https://raw.githubusercontent.com/redbith/redbith/683ac35729d3c26269afd4ea8676fe5d21e72486/main/dark.svg" width="100%">
 </picture>
 ## 💫 About Me
 Hi, I'm redbith from **Azerbaijan**.  
