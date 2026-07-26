@@ -3,15 +3,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/redbith/redbith/refs/heads/main/main/light.svg">
   <img alt="Namiq Baghirzada Hero Banner" src="https://raw.githubusercontent.com/redbith/redbith/683ac35729d3c26269afd4ea8676fe5d21e72486/main/dark.svg" width="100%">
 </picture>
-## 💫 About Me
-Hi, I'm redbith from **Azerbaijan**.  
-I'm passionate about **DevSecOps, System Administration, and Cybersecurity**.
-
-- 🐧 RHCSA-level Linux skills, Shell scripting & server maintenance   
-- 🛡️ Network and app security  
-- 📚 Currently learning DevOps workflow, Linux automation, and security fundamentals
-
----
 
 # 💻 Tech Stack
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
